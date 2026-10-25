@@ -1,0 +1,16 @@
+# Browser and testing data
+.impeccable/
+
+# Debug logs
+debug.log
+*.log
+
+# Node dependencies
+node_modules/
+
+# Build output
+dist/
+
+# Environment variables
+.env
+.env.local
